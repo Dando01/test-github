@@ -8,3 +8,4 @@ def add(x, y):
 print(add(1,1))
 
 print("I luv donut")
+print("Ayam suka saya")
