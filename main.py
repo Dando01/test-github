@@ -9,7 +9,3 @@ print(add(1,1))
 
 print("I luv donut")
 print("Ayam suka saya")
-
-def mutply(a, b):
-    return a * b
-print(mutply(2,3))
